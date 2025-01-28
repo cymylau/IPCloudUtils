@@ -1,6 +1,8 @@
 # IPCloudUtils
 
-**IPCloudUtils** is a PowerShell module designed to simplify tasks related to IP address validation, cloud provider identification, and HTTP/HTTPS connectivity testing. Whether you're managing cloud networks, troubleshooting connectivity, or validating public IPs, this module provides the tools you need.
+**IPCloudUtils** is a PowerShell module designed to simplify tasks related to IP address validation, cloud provider identification, and HTTP/HTTPS connectivity testing. Whether you're managing cloud networks, troubleshooting connectivity, or validating public IPs, this module provides the tools you may need, this is currently experimental. 
+
+Tested with PowerShell Core 7.4.0 
 
 ---
 
