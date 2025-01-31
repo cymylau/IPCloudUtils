@@ -6,7 +6,10 @@
     CompanyName       = 'cymylau'
     Copyright         = '(c) cymylau. All rights reserved.'
     Description       = 'A PowerShell module for IP address validation, cloud identification, and HTTP testing.'
-    PowerShellVersion = '7.4.0'
+    
+    # Compatible PSEditions
+    PowerShellVersion   = '7.4.0'
+    CompatiblePSEditions = @('Core')
 
     # Script/module paths
     RootModule        = 'IPCloudUtils.psm1'
