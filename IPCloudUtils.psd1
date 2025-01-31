@@ -32,7 +32,7 @@
         PSData = @{
             Tags         = @('IP', 'Cloud', 'Networking', 'Azure', 'GCP', 'HTTP')
             LicenseUri   = 'https://opensource.org/licenses/MIT'
-            ProjectUri   = 'https://github.com/YourGitHubUsername/IPCloudUtils'
+            ProjectUri   = 'https://github.com/cymylau/IPCloudUtils'
         }
     }
 }
